@@ -13,7 +13,7 @@ git clone (copy link from code button)
 ```
 --> Move into the directory where we have the project files : 
 ```bash
-cd Django-React-NotesApp
+cd Notes
 
 ```
 
